@@ -3,6 +3,6 @@ package progettoJava2025;
 public class Start {
 	public static void main(String args[]) 
 	{
-		System.ou.println("ciao");
+		System.out.println("ciao");
 	}
 }
